@@ -1,0 +1,13 @@
+# Measured Resonance
+
+**Make the evidence easy to see at a glance.**
+
+Measured Resonance treats information the way a well-built room treats sound: every surface is placed so the signal arrives clean. A page is a stage set before the first note. There's a quiet ivory field, a strict underlying grid, and generous silence around every figure, so that a single number or a single arc of colour carries the full weight of a finding. Nothing decorates. Every mark either measures something or frames something that's measured. The work should feel meticulously crafted, like a score engraved by hand by someone who has spent a lifetime on the craft.
+
+Space is the main instrument. Margins are wide and constant. Columns lock to a modular grid, and the vertical rhythm repeats from page to page like a tempo the eye learns within seconds. Large numerals sit alone in their own bay of white. Small labels whisper beside them in a thin mono face, like the reference markers of a careful field survey. Hierarchy comes from scale and isolation, never from clutter: one dominant figure per spread, then supporting marks in steady descending steps. Every alignment should look like the product of painstaking attention, checked and rechecked until nothing drifts.
+
+Colour is restrained and deliberate. Deep midnight ink carries structure, a single warm brass accent marks what matters most, and a muted sage and a soft clay serve as quiet secondary voices. These four tones are calibrated against the ivory ground so that a chart reads in one glance, in print or on a small screen. Colour is never used decoratively. It always encodes, and the same tone means the same thing on every page. This consistency is a sign of master-level execution: the reader stops decoding and simply sees.
+
+Form is geometric and exact. Rings, bars, ruled lines and small filled circles are the whole vocabulary, drawn with hairline precision and perfect arcs. Shapes repeat with tiny variations, like rows of observations in a ledger, so that pattern itself becomes the argument. Diagrams flow left to right and top to bottom like the order of an evening: something begins, builds, and resolves. Each shape should look drawn with the patience of a craftsman who refused to stop until every curve was true.
+
+Type is minimal and works as a visual element. A refined serif speaks the few headlines with calm authority. A clean grotesque carries the short statements, and a slender monospace marks figures, sources and indices. Words appear only where the image can't speak for itself: short phrases, never paragraphs. The finished work should read as a single considered object, the product of deep expertise and countless hours of refinement, where clarity itself is the ornament.
